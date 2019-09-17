@@ -1,0 +1,13 @@
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\0C7FF16C-38E3-11D0-97AB-00C04FC2AD98 rem SQLOLEDB        Microsoft OLE DB Provider for SQL Server        {0C7FF16C-38E3-11d0-97AB-00C04FC2AD98}  1       False
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\3449A1C8-C56C-11D0-AD72-00C04FC29863              rem MSDataShape     MSDataShape       1       False
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\397C2819-8272-4532-AD3A-FB5E43BEAA39              rem SQLNCLI11       SQL Server Native Client 11.0     1       False
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\549365D0-EC26-11CF-8310-00AA00B505DB              rem ADsDSOObject    OLE DB Provider for Microsoft Directory Services          1      False
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\8F612DD2-7E28-424F-A2FD-C2EECC314AA2              rem SQLNCLI11 Enumerator    SQL Server Native Client 11.0 Enumerator        {8F612DD2-7E28-424f-A2FD-C2EECC314AA2}  2      False
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\9E175B8B-F52A-11D8-B9A5-505054503030              rem Windows Search Data Source      Microsoft OLE DB Provider for Search    {9E175B8B-F52A-11D8-B9A5-505054503030}  1      False
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\C8B522CB-5CF3-11CE-ADE5-00AA0044773D              rem MSDASQL Microsoft OLE DB Provider for ODBC Drivers        1       False
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\C8B522CD-5CF3-11CE-ADE5-00AA0044773D              rem MSDASQL Enumerator      Microsoft OLE DB Enumerator for ODBC Drivers      2      False
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\DBC724B0-DD86-4772-BB5A-FCC6CAB2FC1A              rem MSOLAP  Microsoft OLE DB Provider for Analysis Services 14.0      1       False
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\DFA22B8E-E68D-11D0-97E4-00C04FC2AD98              rem SQLOLEDB Enumerator     Microsoft OLE DB Enumerator for SQL Server      {DFA22B8E-E68D-11d0-97E4-00C04FC2AD98}  2      False
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\DFC8BDC0-E378-11D0-9B30-0080C7E9FE95              rem MSDAOSP Microsoft OLE DB Simple Provider        {dfc8bdc0-e378-11d0-9b30-0080c7e9fe95}  1       False
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\3A5B4772-7946-4E58-9310-B0D423749C1D              rem 
+mkdir Windows\registry\tree\HKEY_CLASSES_ROOT\CLSID\F49C559D-E9E5-467C-8C18-3326AAE4EBCC              rem 
