@@ -1,2 +1,2 @@
-# temp-OLE-DB
-Temporary stuff about OLE DB
+sa:
+   https://github.com/ReneNyffenegger/temp-ADODB
